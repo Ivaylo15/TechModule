@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Interval of Numbers", "06. Interval of Numbers\06. Interval of Numbers.csproj", "{2802407D-7619-4BAD-A587-D4CBC538201A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2802407D-7619-4BAD-A587-D4CBC538201A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2802407D-7619-4BAD-A587-D4CBC538201A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2802407D-7619-4BAD-A587-D4CBC538201A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2802407D-7619-4BAD-A587-D4CBC538201A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
